@@ -2,6 +2,9 @@
 
 bibliography file, python scripts and latex source files for reproducibility
 
+
+
+
 ## How to run
    
 
@@ -21,3 +24,9 @@ This older article were published as [preprint](https://peerj.com/preprints/1954
 
 These repository is created for new version of that article.
 Using python scripts and bibliography file, tables and figures in new article submission can be reproduced.
+
+[Provided bibliography file](https://github.com/ati-ozgur/KDD99ReviewArticle/blob/master/HelperCodes/KDD99ReviewArticles.bib) contains meta data information for new article.
+Python scripts parses this bibliography file and creates figures and tables.
+
+
+
