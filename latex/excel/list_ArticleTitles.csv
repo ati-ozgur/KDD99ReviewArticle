@@ -1,0 +1,215 @@
+a cost sensitive learning method to tune the nearest neighbour for intrusion detection
+a feature selection method for improved clonal algorithm towards intrusion detection
+a gaussian distribution-based lightweight intrusion detection model
+a hybrid approach to clustering in big data
+a hybrid method for intrusion detection with ga-based feature selection
+a hybrid spectral clustering and deep neural network ensemble algorithm for intrusion detection in sensor networks
+a large-scale network data analysis via sparse and low rank reconstruction
+a mapreduce approach to address big data classification problems based on the fusion of linguistic fuzzy rules
+a neural network ensemble classifier for effective intrusion detection using fuzzy clustering and radial basis function networks
+a novel algorithm for intrusion detection based on rasl model checking
+a novel anomaly-network intrusion detection system using abc algorithms
+a random decision tree ensemble for mining concept drifts from noisy data streams
+a self-adaptive fuzzy c-means algorithm for determining the optimal number of clusters
+a support system for clustering data streams with a variable number of clusters
+a system for denial-of-service attack detection based on multivariate correlation analysis
+a time-stamp frequent pattern-based clustering method for anomaly detection
+a cascaded classifier approach for improving detection rates on rare attack categories in network intrusion detection
+a distance sum-based hybrid method for intrusion detection
+a fast outlier detection strategy for distributed high-dimensional data sets with mixed attributes
+a feature selection approach to find optimal feature subsets for the network intrusion detection system
+a hybrid approach for efficient anomaly detection using metaheuristic methods
+a hybrid method consisting of ga and svm for intrusion detection system
+a hybrid network intrusion detection system using simplified swarm optimization (sso)
+a multi-level intrusion detection method for abnormal network behaviors
+a multi-step outlier-based anomaly detection approach to network-wide traffic
+a nature-inspired approach to speed up optimum-path forest clustering and its application to intrusion detection in computer networks
+a network intrusion detection system based on a hidden naïve bayes multiclass classifier
+a new approach to intrusion detection using artificial neural networks and fuzzy clustering
+a new feature selection model based on id3 and bees algorithm for intrusion detection system
+a new intrusion detection method based on svm with minimum within-class scatter
+a new ontology-based multi agent framework for intrusion detection
+a novel svm by combining kernel principal component analysis and improved chaotic particle swarm optimization for intrusion detection
+a novel svm-knn-pso ensemble method for intrusion detection system
+a novel approach for discretization of continuous attributes in rough set theory
+a novel concept drift detection method in data streams using ensemble classifiers
+a novel feature-selection approach based on the cuttlefish optimization algorithm for intrusion detection systems
+a novel hybrid kpca and svm with ga model for intrusion detection
+a novel hybrid intrusion detection method integrating anomaly detection with misuse detection
+a novel intrusion detection approach learned from the change of antibody concentration in biological immune response
+a novel intrusion detection system based on feature generation with visualization strategy
+a novel intrusion detection system based on hierarchical clustering and support vector machines
+a population-based incremental learning approach with artificial immune system for network intrusion detection
+a relative decision entropy-based feature selection approach
+a scalable approach to simultaneous evolutionary instance and feature selection
+a statistical model for network data analysis kdd cup 99’ data evaluation and its comparing with mit lincoln laboratory network data
+a transductive scheme based inference techniques for network forensic analysis
+a triangle area based nearest neighbors approach to intrusion detection
+a two-level hybrid approach for intrusion detection
+a two-stage hybrid classification technique for network intrusion detection system
+a-ghsom an adaptive growing hierarchical self organizing map for network anomaly detection
+adaptive neuro-fuzzy-based anomaly detection system in cloud
+advanced probabilistic approach for network intrusion forecasting and detection
+an abnormal network traffic detection algorithm based on big data analysis
+an intrusion-detection model based on fuzzy class-association-rule mining using genetic network programming
+an optimum-path forest framework for intrusion detection in computer networks
+an adaptive ensemble classifier for mining concept drifting data streams
+an anomalous behavior detection model in cloud computing
+an effective intrusion detection framework based on mclp/svm optimized by time-varying chaos particle swarm optimization
+an efficient class association rule-pruning method for unified intrusion detection system using genetic algorithm
+an efficient intrusion detection system based on support vector machines and gradually feature removal method
+an efficient negative selection algorithm with further training for anomaly detection
+an efficient proactive artificial immune system based anomaly detection and prevention system
+an ensemble design of intrusion detection system for handling uncertainty using neutrosophic logic classifier
+an ensemble-based evolutionary framework for coping with distributed intrusion detection
+an evolutionary algorithm for clustering data streams with a variable number of clusters
+an improved hoeffding-id data-stream classification algorithm
+an improved nsga-iii algorithm for feature selection used in intrusion detection
+an improvement of the state-of-the-art covariance-based methods for statistical anomaly detection algorithms
+an incremental decision tree algorithm based on rough sets and its application in intrusion detection
+an information theoretic approach for feature selection
+an innovative two-stage fuzzy knn-dst classifier for unknown intrusion detection
+an intelligent crf based feature selection for effective intrusion detection.
+an intelligent algorithm with feature selection and decision rules applied to anomaly intrusion detection
+an intrusion detection and alert correlation approach based on revising probabilistic classifiers using expert knowledge
+an intrusion detection system using network traffic profiling and online sequential extreme learning machine
+an intrusion detection system using network traffic profiling and online sequential extreme learning machine
+an optimization process to identify outliers generated by intrusion detection systems
+an uncertainty-managing batch relevance-based approach to network anomaly detection
+analysis of intelligent classifiers and enhancing the detection accuracy for intrusion detection system
+analysis of network traffic features for anomaly detection
+anomaly detection system in cloud environment using fuzzy clustering based ann
+anomaly detection using neighborhood negative selection
+anomaly detection using fuzzy q-learning algorithm
+anomaly detection via online oversampling principal component analysis
+anomaly traffic detection based on pca and sfam
+anomaly intrusion detection based on pls feature extraction and core vector machine
+another fuzzy anomaly detection system based on ant clustering algorithm
+application of an aode based classifier to detect dos attacks
+application of artificial bee colony for intrusion detection systems
+applying artificial neural network and extended classifier system for network intrusion detection
+applying a new localized generalization error model to design neural networks trained with extreme learning machine
+autonomic intrusion detection adaptively detecting anomalies over unlabeled audit data streams in computer networks
+building an intrusion detection system using a filter-based feature selection algorithm
+cann an intrusion detection system based on combining cluster centers and nearest neighbors
+cellular neural network-based methods for distributed network intrusion detection
+classifier selection method based on clustering and weighted mean
+classifiers comparison for attack detection in computer networks
+cluster data streams with noisy variables
+constructing important features from massive network traffic for lightweight intrusion detection
+data stream clustering with affinity propagation
+data summarization for network traffic monitoring
+data-stream-based intrusion detection system for advanced metering infrastructure in smart grid a feasibility study
+decision tree based light weight intrusion detection using a wrapper approach
+design and analysis of genetic fuzzy systems for intrusion detection in computer networks
+design of multilevel hybrid classifier with variant feature sets for intrusion detection system
+design of an evolutionary approach for intrusion detection
+designing of on line intrusion detection system using rough set theory and q-learning algorithm
+detecting ddos attacks against data center with correlation analysis
+detecting anomalies from big network traffic data using an adaptive detection approach
+detection and classification of anomaly intrusion using hierarchy clustering and svm
+detection of attacks for ids using association rule mining algorithm
+detection of denial-of-service attacks based on computer vision techniques
+detection of distributed denial of service attacks using an ensemble of adaptive and hybrid neuro-fuzzy systems
+distributed intrusion detection system in a multi-layer network architecture of smart grids
+dynamic learning model update of hybrid-classifiers for intrusion detection
+efficient context-free grammar intrusion detection system
+efficient classification using parallel and scalable compressed model and its application on intrusion detection
+efficient supervised optimum-path forest classification for large datasets
+enhanced solutions for misuse network intrusion detection system using sga and ssga
+enhancing mlp performance in intrusion detection using optimal feature subset selection based on genetic principal components
+enhancing svm performance in intrusion detection using optimal feature subset selection based on genetic principal components
+ensemble-based multi-filter feature selection method for ddos detection in cloud computing
+entropy based fuzzy rule weighting for hierarchical intrusion detection
+evolution of a hybrid model for an effective perimeter security device
+evolving boundary detector for anomaly detection
+evolving optimised decision rules for intrusion detection using particle swarm paradigm
+evolving statistical rulesets for network intrusion detection
+expected similarity estimation for large-scale batch and streaming anomaly detection
+fast memory efficient local outlier detection in data streams
+feature construction scheme for efficient intrusion detection system.
+feature selection and classification in multiple class datasets an application to kdd cup 99 dataset
+feature selection by multi-objective optimisation application to network anomaly detection by hierarchical self-organising maps
+fully online clustering of evolving data streams into arbitrarily shaped clusters
+fuzziness based semi-supervised learning approach for intrusion detection system
+fuzzy classifier design using harmonic search methods
+gmdh-based networks for intelligent intrusion detection
+gravitational search algorithm–optimized neural misuse detector with selected features by fuzzy grids–based association rules mining
+grid-based high performance ensemble classification for evolving data stream
+hybrid decision tree and naïve bayes classifiers for multi-class classification tasks
+hybrid intelligent systems for detecting network intrusions
+immunocomputing for intelligent signal processing
+improved competitive learning neural networks for network intrusion and fraud detection
+improving anomalous rare attack detection rate for intrusion detection system using support vector machine and genetic programming
+incremental svm based on reserved set for network intrusion detection
+incremental and decremental max-flow for online semi-supervised learning
+incremental semi-supervised kernel construction with self-organizing incremental neural network and application in intrusion detection
+intelligent agent-based intrusion detection system using enhanced multiclass svm
+intelligent feature selection and classification techniques for intrusion detection in networks a survey
+intraclass and interclass correlation coefficient-based feature selection in nids dataset
+intrusion detection system with wavelet and neural artifical network approach for networks computers
+intrusion detection using reduced-size rnn based on feature grouping
+intrusion detection by ellipsoid boundary
+intrusion detection alert management for high-speed networks current researches and applications
+lawra a layered wrapper feature selection approach for network attack detection
+lddos attack detection by using ant colony optimization algorithms.
+layered approach using conditional random fields for intrusion detection
+learning from concept drifting data streams with unlabeled data
+learning from data streams with only positive and unlabeled data
+learning from others exchange of classification rules in intelligent distributed systems
+local outlier factor and stronger one class classifier based hierarchical model for detection of attacks in network intrusion detection dataset
+loda lightweight on-line detector of anomalies
+mais-ids a distributed intrusion detection system using multi-agent ais approach
+mark-elm application of a novel multiple kernel learning framework for improving the robustness of network intrusion detection
+mifs-nd a mutual information-based feature selection method
+mlh-ids a multi-level hybrid intrusion detection method
+minimal complexity attack classification intrusion detection system
+mining network data for intrusion detection through combining svms with ant colony networks
+mobile anomaly detection based on improved self-organizing maps
+modification of supervised opf-based intrusion detection systems using unsupervised learning and social network concept
+modified parallel random forest for intrusion detection systems
+multi-measure multi-weight ranking approach for the identification of the network features for the detection of dos and probe attacks
+multi-class pattern classification using single, multi-dimensional feature-space feature extraction evolved by multi-objective genetic programming and its application to network intrusion detection
+multi-level hybrid support vector machine and extreme learning machine based on modified k-means for intrusion detection system
+multiclass elm based smart trustworthy ids for manets
+multivariate correlation analysis and geometric linear similarity for real-time intrusion detection systems
+mutual information-based feature selection for intrusion detection systems
+network anomaly detection based on bqpso-bn algorithm
+network anomaly detection system with optimized ds evidence theory
+network intrusion detection based on a general regression neural network optimized by an improved artificial immune algorithm
+network intrusion detection using class association rule mining based on genetic network programming
+network anomaly detection with the restricted boltzmann machine
+network intrusion detection using hybrid binary pso and random forests algorithm
+new class-dependent feature transformation for intrusion detection systems
+on the combination of genetic fuzzy systems and pairwise learning for improving detection rates on intrusion detection systems
+on the evaluation of unsupervised outlier detection measures, datasets, and an empirical study
+on the use of mapreduce for imbalanced big data using random forest
+on the versatility of radial basis function neural networks a case study in the field of intrusion detection
+one-class learning and concept summarization for data streams
+online adaboost-based parameterized methods for dynamic distributed network intrusion detection
+online anomaly detection based on support vector clustering
+online frame-based clustering with unknown number of clusters
+optimized intrusion detection mechanism using soft computing techniques
+outlier detection based on granular computing and rough set theory
+pca filtering and probabilistic som for network intrusion detection
+performance comparison of neuro-fuzzy cloud intrusion detection systems
+practical real-time intrusion detection using machine learning approaches
+quantitative intrusion intensity assessment for intrusion detection systems
+rods rarity based outlier detection in a sparse coding framework
+random effects logistic regression model for anomaly detection
+rare category exploration via wavelet analysis theory and applications
+real time intrusion detection system for ultra-high-speed big data environments
+real-time multi-agent system for an adaptive intrusion detection system
+rough set-hypergraph-based feature selection approach for intrusion detection systems
+security enhancement in distributed networks using link-based mapping scheme for network intrusion detection with enhanced bloom filter
+self-adaptive and dynamic clustering for online anomaly detection
+taiga performance optimization of the c4.5 decision tree construction algorithm
+towards an unsupervised method for network anomaly detection in large datasets
+towards reducing false alarms in network intrusion detection systems with data summarization technique
+towards scalable rough set based attribute subset selection for intrusion detection using parallel genetic algorithm in mapreduce
+two axes re-ordering methods in parallel coordinates plots
+two-tier network anomaly detection model a machine learning approach
+unsupervised network intrusion detection systems detecting the unknown without knowledge
+variational learning for finite dirichlet mixture models and applications
+zeki saldırı tespit sistemi tasarımı ve gerçekleştirilmesi
+co-fql anomaly detection using cooperative fuzzy q-learning in network
