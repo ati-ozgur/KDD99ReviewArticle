@@ -8,6 +8,8 @@ import re
 from os import listdir
 from os.path import isfile, join
 import pandas as pd
+import bibtexparser
+
 
 
 META_STARTS = "META_STARTS"
@@ -107,16 +109,16 @@ def create_kdd99_review_bib_file():
 
 
 
-import bibtexparser
+
 
 def get_list_of_dictionary_created_from_bibtex_file():
     
-    with open(BIBTEX_MAIN_FILE_NAME) as bibtex_file:
+    with open(BIBTEX_MAIN_FILE_NAME,"r" , encoding="utf-8") as bibtex_file:
         list_of_article_dictionaries = bibtexparser.load(bibtex_file)    
     
     
     for article_entry in list_of_article_dictionaries.entries:
-        str_review = article_entry["review"]
+        str_review = article_entry["comment"]
         start = str_review.index("META_STARTS") 
         end = str_review.index("META_ENDS")
         meta_all_values = str_review[start:end]
